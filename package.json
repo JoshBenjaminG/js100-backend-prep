@@ -1,0 +1,22 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "main": "basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshBenjaminG/js100-backend-prep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshBenjaminG/js100-backend-prep/issues"
+  },
+  "homepage": "https://github.com/JoshBenjaminG/js100-backend-prep#readme",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
